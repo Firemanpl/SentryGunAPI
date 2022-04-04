@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SentryGunAPI.Shared.Infrastructure/1.0.0": {
+        "dependencies": {
+          "SentryGunAPI.Shared.Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "SentryGunAPI.Shared.Infrastructure.dll": {}
+        }
+      },
+      "SentryGunAPI.Shared.Abstractions/1.0.0": {
+        "runtime": {
+          "SentryGunAPI.Shared.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SentryGunAPI.Shared.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SentryGunAPI.Shared.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

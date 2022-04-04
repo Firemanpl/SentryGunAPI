@@ -1,0 +1,15 @@
+/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Infrastructure/bin/Debug/net6.0/SentryGunAPI.Shared.Infrastructure.deps.json
+/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Infrastructure/bin/Debug/net6.0/SentryGunAPI.Shared.Infrastructure.dll
+/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Infrastructure/bin/Debug/net6.0/SentryGunAPI.Shared.Infrastructure.pdb
+/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Infrastructure/bin/Debug/net6.0/SentryGunAPI.Shared.Abstractions.dll
+/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Infrastructure/bin/Debug/net6.0/SentryGunAPI.Shared.Abstractions.pdb
+/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Infrastructure/obj/Debug/net6.0/SentryGunAPI.Shared.Infrastructure.csproj.AssemblyReference.cache
+/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Infrastructure/obj/Debug/net6.0/SentryGunAPI.Shared.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Infrastructure/obj/Debug/net6.0/SentryGunAPI.Shared.Infrastructure.AssemblyInfoInputs.cache
+/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Infrastructure/obj/Debug/net6.0/SentryGunAPI.Shared.Infrastructure.AssemblyInfo.cs
+/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Infrastructure/obj/Debug/net6.0/SentryGunAPI.Shared.Infrastructure.csproj.CoreCompileInputs.cache
+/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Infrastructure/obj/Debug/net6.0/SentryGunAPI.Shared.Infrastructure.csproj.CopyComplete
+/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Infrastructure/obj/Debug/net6.0/SentryGunAPI.Shared.Infrastructure.dll
+/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Infrastructure/obj/Debug/net6.0/refint/SentryGunAPI.Shared.Infrastructure.dll
+/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Infrastructure/obj/Debug/net6.0/SentryGunAPI.Shared.Infrastructure.pdb
+/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Infrastructure/obj/Debug/net6.0/ref/SentryGunAPI.Shared.Infrastructure.dll

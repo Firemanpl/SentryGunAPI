@@ -1,0 +1,12 @@
+/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Abstractions/bin/Debug/net6.0/SentryGunAPI.Shared.Abstractions.deps.json
+/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Abstractions/bin/Debug/net6.0/SentryGunAPI.Shared.Abstractions.dll
+/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Abstractions/bin/Debug/net6.0/SentryGunAPI.Shared.Abstractions.pdb
+/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Abstractions/obj/Debug/net6.0/SentryGunAPI.Shared.Abstractions.csproj.AssemblyReference.cache
+/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Abstractions/obj/Debug/net6.0/SentryGunAPI.Shared.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Abstractions/obj/Debug/net6.0/SentryGunAPI.Shared.Abstractions.AssemblyInfoInputs.cache
+/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Abstractions/obj/Debug/net6.0/SentryGunAPI.Shared.Abstractions.AssemblyInfo.cs
+/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Abstractions/obj/Debug/net6.0/SentryGunAPI.Shared.Abstractions.csproj.CoreCompileInputs.cache
+/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Abstractions/obj/Debug/net6.0/SentryGunAPI.Shared.Abstractions.dll
+/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Abstractions/obj/Debug/net6.0/refint/SentryGunAPI.Shared.Abstractions.dll
+/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Abstractions/obj/Debug/net6.0/SentryGunAPI.Shared.Abstractions.pdb
+/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Abstractions/obj/Debug/net6.0/ref/SentryGunAPI.Shared.Abstractions.dll

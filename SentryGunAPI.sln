@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentryGunAPI.Bootstrapper", "SentryGunAPI.Bootstrapper\SentryGunAPI.Bootstrapper.csproj", "{557CB7D6-85DA-4BAC-A14E-0C0E3B3A6805}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{28697844-6C29-4CF8-9FC7-523870D35742}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{9787C137-A53E-4FAA-A294-EF2FFC820EA8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Boostrapper", "Boostrapper", "{A51A5F60-360D-4D62-9482-E6F8CABDB7D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{6EF760AA-5908-4729-99A9-1BFA636ABE35}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{7E32DC97-2BE6-43AA-8ACD-DFB190F2E5CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentryGunAPI.Shared.Abstractions", "src\Shared\SentryGunAPI.Shared.Abstractions\SentryGunAPI.Shared.Abstractions.csproj", "{8E464B34-3CDB-47D8-8F73-644B46609FA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentryGunAPI.Shared.Infrastructure", "src\Shared\SentryGunAPI.Shared.Infrastructure\SentryGunAPI.Shared.Infrastructure.csproj", "{8F55FBB9-A694-4C3A-BA8F-2D03367419E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{557CB7D6-85DA-4BAC-A14E-0C0E3B3A6805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{557CB7D6-85DA-4BAC-A14E-0C0E3B3A6805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{557CB7D6-85DA-4BAC-A14E-0C0E3B3A6805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{557CB7D6-85DA-4BAC-A14E-0C0E3B3A6805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E464B34-3CDB-47D8-8F73-644B46609FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E464B34-3CDB-47D8-8F73-644B46609FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E464B34-3CDB-47D8-8F73-644B46609FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E464B34-3CDB-47D8-8F73-644B46609FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F55FBB9-A694-4C3A-BA8F-2D03367419E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F55FBB9-A694-4C3A-BA8F-2D03367419E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F55FBB9-A694-4C3A-BA8F-2D03367419E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F55FBB9-A694-4C3A-BA8F-2D03367419E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A51A5F60-360D-4D62-9482-E6F8CABDB7D7} = {28697844-6C29-4CF8-9FC7-523870D35742}
+		{6EF760AA-5908-4729-99A9-1BFA636ABE35} = {28697844-6C29-4CF8-9FC7-523870D35742}
+		{7E32DC97-2BE6-43AA-8ACD-DFB190F2E5CA} = {28697844-6C29-4CF8-9FC7-523870D35742}
+		{557CB7D6-85DA-4BAC-A14E-0C0E3B3A6805} = {A51A5F60-360D-4D62-9482-E6F8CABDB7D7}
+		{8E464B34-3CDB-47D8-8F73-644B46609FA1} = {7E32DC97-2BE6-43AA-8ACD-DFB190F2E5CA}
+		{8F55FBB9-A694-4C3A-BA8F-2D03367419E7} = {7E32DC97-2BE6-43AA-8ACD-DFB190F2E5CA}
+	EndGlobalSection
+EndGlobal

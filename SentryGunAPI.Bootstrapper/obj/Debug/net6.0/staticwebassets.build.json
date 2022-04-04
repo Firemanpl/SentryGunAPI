@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8CpXuTzZ0vi7WLRwv3ryi7GYc2mFZciarA6us8s4f4U=",
+  "Source": "SentryGunAPI.Bootstrapper",
+  "BasePath": "_content/SentryGunAPI.Bootstrapper",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
