@@ -24,3 +24,8 @@
 /home/fireman/dotnet/SentryGunAPI/SentryGunAPI.Bootstrapper/obj/Debug/net6.0/SentryGunAPI.Bootstrapper.pdb
 /home/fireman/dotnet/SentryGunAPI/SentryGunAPI.Bootstrapper/obj/Debug/net6.0/SentryGunAPI.Bootstrapper.genruntimeconfig.cache
 /home/fireman/dotnet/SentryGunAPI/SentryGunAPI.Bootstrapper/obj/Debug/net6.0/ref/SentryGunAPI.Bootstrapper.dll
+/home/fireman/dotnet/SentryGunAPI/SentryGunAPI.Bootstrapper/bin/Debug/net6.0/SentryGunAPI.Modules.Conferences.Api.dll
+/home/fireman/dotnet/SentryGunAPI/SentryGunAPI.Bootstrapper/bin/Debug/net6.0/SentryGunAPI.Modules.Conferences.Core.dll
+/home/fireman/dotnet/SentryGunAPI/SentryGunAPI.Bootstrapper/bin/Debug/net6.0/SentryGunAPI.Modules.Conferences.Api.pdb
+/home/fireman/dotnet/SentryGunAPI/SentryGunAPI.Bootstrapper/bin/Debug/net6.0/SentryGunAPI.Modules.Conferences.Core.pdb
+/home/fireman/dotnet/SentryGunAPI/SentryGunAPI.Bootstrapper/obj/Debug/net6.0/SentryGunAPI.Bootstrapper.MvcApplicationPartsAssemblyInfo.cs

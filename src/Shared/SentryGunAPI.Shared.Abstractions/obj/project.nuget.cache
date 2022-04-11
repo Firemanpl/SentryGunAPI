@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "QhEtmRNitqiAUlVIgbmpULMpvzOhBEpOqnB7U+O/siGiSFDJrWS/TE7YDb82i0bZdM6FPiclsPyYZf/qJD8TBA==",
+  "dgSpecHash": "wIl16HnRXM3TIeJcnpSorG+QdzA4hT0E5vNEYV5RLkXKKm33vMahdKZdb4gu56Qfp/jC8MczXegMgOg9FJHb7g==",
   "success": true,
   "projectFilePath": "/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Abstractions/SentryGunAPI.Shared.Abstractions.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/fireman/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/home/fireman/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/home/fireman/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/home/fireman/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

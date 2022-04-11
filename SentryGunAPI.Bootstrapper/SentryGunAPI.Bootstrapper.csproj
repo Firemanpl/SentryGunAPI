@@ -7,6 +7,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\src\Modules\SentryGunAPI.Modules.Conferences.Api\SentryGunAPI.Modules.Conferences.Api.csproj" />
       <ProjectReference Include="..\src\Shared\SentryGunAPI.Shared.Infrastructure\SentryGunAPI.Shared.Infrastructure.csproj" />
     </ItemGroup>
 

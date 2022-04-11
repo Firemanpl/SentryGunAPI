@@ -1,0 +1,247 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Api/SentryGunAPI.Modules.Conferences.Api.csproj": {}
+  },
+  "projects": {
+    "/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Api/SentryGunAPI.Modules.Conferences.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Api/SentryGunAPI.Modules.Conferences.Api.csproj",
+        "projectName": "SentryGunAPI.Modules.Conferences.Api",
+        "projectPath": "/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Api/SentryGunAPI.Modules.Conferences.Api.csproj",
+        "packagesPath": "/home/fireman/.nuget/packages/",
+        "outputPath": "/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/fireman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Core/SentryGunAPI.Modules.Conferences.Core.csproj": {
+                "projectPath": "/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Core/SentryGunAPI.Modules.Conferences.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Core/SentryGunAPI.Modules.Conferences.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Core/SentryGunAPI.Modules.Conferences.Core.csproj",
+        "projectName": "SentryGunAPI.Modules.Conferences.Core",
+        "projectPath": "/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Core/SentryGunAPI.Modules.Conferences.Core.csproj",
+        "packagesPath": "/home/fireman/.nuget/packages/",
+        "outputPath": "/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/fireman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Infrastructure/SentryGunAPI.Shared.Infrastructure.csproj": {
+                "projectPath": "/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Infrastructure/SentryGunAPI.Shared.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Abstractions/SentryGunAPI.Shared.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Abstractions/SentryGunAPI.Shared.Abstractions.csproj",
+        "projectName": "SentryGunAPI.Shared.Abstractions",
+        "projectPath": "/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Abstractions/SentryGunAPI.Shared.Abstractions.csproj",
+        "packagesPath": "/home/fireman/.nuget/packages/",
+        "outputPath": "/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Abstractions/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/fireman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Infrastructure/SentryGunAPI.Shared.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Infrastructure/SentryGunAPI.Shared.Infrastructure.csproj",
+        "projectName": "SentryGunAPI.Shared.Infrastructure",
+        "projectPath": "/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Infrastructure/SentryGunAPI.Shared.Infrastructure.csproj",
+        "packagesPath": "/home/fireman/.nuget/packages/",
+        "outputPath": "/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/fireman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Abstractions/SentryGunAPI.Shared.Abstractions.csproj": {
+                "projectPath": "/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Abstractions/SentryGunAPI.Shared.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

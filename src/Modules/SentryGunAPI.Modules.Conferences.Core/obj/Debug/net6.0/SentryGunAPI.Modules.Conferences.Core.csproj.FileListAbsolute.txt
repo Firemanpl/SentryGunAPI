@@ -1,0 +1,17 @@
+/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Core/bin/Debug/net6.0/SentryGunAPI.Modules.Conferences.Core.deps.json
+/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Core/bin/Debug/net6.0/SentryGunAPI.Modules.Conferences.Core.dll
+/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Core/bin/Debug/net6.0/SentryGunAPI.Modules.Conferences.Core.pdb
+/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Core/bin/Debug/net6.0/SentryGunAPI.Shared.Abstractions.dll
+/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Core/bin/Debug/net6.0/SentryGunAPI.Shared.Infrastructure.dll
+/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Core/bin/Debug/net6.0/SentryGunAPI.Shared.Infrastructure.pdb
+/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Core/bin/Debug/net6.0/SentryGunAPI.Shared.Abstractions.pdb
+/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Core/obj/Debug/net6.0/SentryGunAPI.Modules.Conferences.Core.csproj.AssemblyReference.cache
+/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Core/obj/Debug/net6.0/SentryGunAPI.Modules.Conferences.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Core/obj/Debug/net6.0/SentryGunAPI.Modules.Conferences.Core.AssemblyInfoInputs.cache
+/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Core/obj/Debug/net6.0/SentryGunAPI.Modules.Conferences.Core.AssemblyInfo.cs
+/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Core/obj/Debug/net6.0/SentryGunAPI.Modules.Conferences.Core.csproj.CoreCompileInputs.cache
+/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Core/obj/Debug/net6.0/SentryGunAPI.Modules.Conferences.Core.csproj.CopyComplete
+/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Core/obj/Debug/net6.0/SentryGunAPI.Modules.Conferences.Core.dll
+/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Core/obj/Debug/net6.0/refint/SentryGunAPI.Modules.Conferences.Core.dll
+/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Core/obj/Debug/net6.0/SentryGunAPI.Modules.Conferences.Core.pdb
+/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Core/obj/Debug/net6.0/ref/SentryGunAPI.Modules.Conferences.Core.dll
