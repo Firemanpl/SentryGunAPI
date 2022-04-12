@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\Modules\SentryGunAPI.Modules.Conferences.Api\SentryGunAPI.Modules.Conferences.Api.csproj" />
+      <ProjectReference Include="..\..\Modules\SentryGunAPI.Modules.Conferences.Core\SentryGunAPI.Modules.Conferences.Core.csproj" />
+      <ProjectReference Include="..\..\Shared\SentryGunAPI.Shared.Abstractions\SentryGunAPI.Shared.Abstractions.csproj" />
+      <ProjectReference Include="..\..\Shared\SentryGunAPI.Shared.Infrastructure\SentryGunAPI.Shared.Infrastructure.csproj" />
+    </ItemGroup>
+
+</Project>

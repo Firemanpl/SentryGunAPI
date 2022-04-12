@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/fireman/dotnet/SentryGunAPI/SentryGunAPI.Bootstrapper/SentryGunAPI.Bootstrapper.csproj": {}
+    "/home/fireman/dotnet/SentryGunAPI/src/Bootstrapper/SentryGunAPI.Bootstrapper/SentryGunAPI.Bootstrapper.csproj": {}
   },
   "projects": {
-    "/home/fireman/dotnet/SentryGunAPI/SentryGunAPI.Bootstrapper/SentryGunAPI.Bootstrapper.csproj": {
+    "/home/fireman/dotnet/SentryGunAPI/src/Bootstrapper/SentryGunAPI.Bootstrapper/SentryGunAPI.Bootstrapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/fireman/dotnet/SentryGunAPI/SentryGunAPI.Bootstrapper/SentryGunAPI.Bootstrapper.csproj",
+        "projectUniqueName": "/home/fireman/dotnet/SentryGunAPI/src/Bootstrapper/SentryGunAPI.Bootstrapper/SentryGunAPI.Bootstrapper.csproj",
         "projectName": "SentryGunAPI.Bootstrapper",
-        "projectPath": "/home/fireman/dotnet/SentryGunAPI/SentryGunAPI.Bootstrapper/SentryGunAPI.Bootstrapper.csproj",
+        "projectPath": "/home/fireman/dotnet/SentryGunAPI/src/Bootstrapper/SentryGunAPI.Bootstrapper/SentryGunAPI.Bootstrapper.csproj",
         "packagesPath": "/home/fireman/.nuget/packages/",
-        "outputPath": "/home/fireman/dotnet/SentryGunAPI/SentryGunAPI.Bootstrapper/obj/",
+        "outputPath": "/home/fireman/dotnet/SentryGunAPI/src/Bootstrapper/SentryGunAPI.Bootstrapper/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/fireman/.nuget/NuGet/NuGet.Config"
@@ -28,6 +28,12 @@
             "projectReferences": {
               "/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Api/SentryGunAPI.Modules.Conferences.Api.csproj": {
                 "projectPath": "/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Api/SentryGunAPI.Modules.Conferences.Api.csproj"
+              },
+              "/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Core/SentryGunAPI.Modules.Conferences.Core.csproj": {
+                "projectPath": "/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Core/SentryGunAPI.Modules.Conferences.Core.csproj"
+              },
+              "/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Abstractions/SentryGunAPI.Shared.Abstractions.csproj": {
+                "projectPath": "/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Abstractions/SentryGunAPI.Shared.Abstractions.csproj"
               },
               "/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Infrastructure/SentryGunAPI.Shared.Infrastructure.csproj": {
                 "projectPath": "/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Infrastructure/SentryGunAPI.Shared.Infrastructure.csproj"

@@ -1,11 +1,13 @@
-using System.Runtime.Loader;
 using SentryGunAPI.Modules.Conferences.Api;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddControllers();
+builder.Services.AddConferences();
+
 var app = builder.Build();
 
-// builder.Services.AddControllers();
-// builder.Services.AddConferences();
+
 
 if (app.Environment.IsDevelopment())
 {

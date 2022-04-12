@@ -214,28 +214,30 @@
     },
     "SentryGunAPI.Modules.Conferences.Api/1.0.0": {
       "type": "project",
-      "path": "../src/Modules/SentryGunAPI.Modules.Conferences.Api/SentryGunAPI.Modules.Conferences.Api.csproj",
-      "msbuildProject": "../src/Modules/SentryGunAPI.Modules.Conferences.Api/SentryGunAPI.Modules.Conferences.Api.csproj"
+      "path": "../../Modules/SentryGunAPI.Modules.Conferences.Api/SentryGunAPI.Modules.Conferences.Api.csproj",
+      "msbuildProject": "../../Modules/SentryGunAPI.Modules.Conferences.Api/SentryGunAPI.Modules.Conferences.Api.csproj"
     },
     "SentryGunAPI.Modules.Conferences.Core/1.0.0": {
       "type": "project",
-      "path": "../src/Modules/SentryGunAPI.Modules.Conferences.Core/SentryGunAPI.Modules.Conferences.Core.csproj",
-      "msbuildProject": "../src/Modules/SentryGunAPI.Modules.Conferences.Core/SentryGunAPI.Modules.Conferences.Core.csproj"
+      "path": "../../Modules/SentryGunAPI.Modules.Conferences.Core/SentryGunAPI.Modules.Conferences.Core.csproj",
+      "msbuildProject": "../../Modules/SentryGunAPI.Modules.Conferences.Core/SentryGunAPI.Modules.Conferences.Core.csproj"
     },
     "SentryGunAPI.Shared.Abstractions/1.0.0": {
       "type": "project",
-      "path": "../src/Shared/SentryGunAPI.Shared.Abstractions/SentryGunAPI.Shared.Abstractions.csproj",
-      "msbuildProject": "../src/Shared/SentryGunAPI.Shared.Abstractions/SentryGunAPI.Shared.Abstractions.csproj"
+      "path": "../../Shared/SentryGunAPI.Shared.Abstractions/SentryGunAPI.Shared.Abstractions.csproj",
+      "msbuildProject": "../../Shared/SentryGunAPI.Shared.Abstractions/SentryGunAPI.Shared.Abstractions.csproj"
     },
     "SentryGunAPI.Shared.Infrastructure/1.0.0": {
       "type": "project",
-      "path": "../src/Shared/SentryGunAPI.Shared.Infrastructure/SentryGunAPI.Shared.Infrastructure.csproj",
-      "msbuildProject": "../src/Shared/SentryGunAPI.Shared.Infrastructure/SentryGunAPI.Shared.Infrastructure.csproj"
+      "path": "../../Shared/SentryGunAPI.Shared.Infrastructure/SentryGunAPI.Shared.Infrastructure.csproj",
+      "msbuildProject": "../../Shared/SentryGunAPI.Shared.Infrastructure/SentryGunAPI.Shared.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "SentryGunAPI.Modules.Conferences.Api >= 1.0.0",
+      "SentryGunAPI.Modules.Conferences.Core >= 1.0.0",
+      "SentryGunAPI.Shared.Abstractions >= 1.0.0",
       "SentryGunAPI.Shared.Infrastructure >= 1.0.0"
     ]
   },
@@ -245,11 +247,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/fireman/dotnet/SentryGunAPI/SentryGunAPI.Bootstrapper/SentryGunAPI.Bootstrapper.csproj",
+      "projectUniqueName": "/home/fireman/dotnet/SentryGunAPI/src/Bootstrapper/SentryGunAPI.Bootstrapper/SentryGunAPI.Bootstrapper.csproj",
       "projectName": "SentryGunAPI.Bootstrapper",
-      "projectPath": "/home/fireman/dotnet/SentryGunAPI/SentryGunAPI.Bootstrapper/SentryGunAPI.Bootstrapper.csproj",
+      "projectPath": "/home/fireman/dotnet/SentryGunAPI/src/Bootstrapper/SentryGunAPI.Bootstrapper/SentryGunAPI.Bootstrapper.csproj",
       "packagesPath": "/home/fireman/.nuget/packages/",
-      "outputPath": "/home/fireman/dotnet/SentryGunAPI/SentryGunAPI.Bootstrapper/obj/",
+      "outputPath": "/home/fireman/dotnet/SentryGunAPI/src/Bootstrapper/SentryGunAPI.Bootstrapper/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/fireman/.nuget/NuGet/NuGet.Config"
@@ -266,6 +268,12 @@
           "projectReferences": {
             "/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Api/SentryGunAPI.Modules.Conferences.Api.csproj": {
               "projectPath": "/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Api/SentryGunAPI.Modules.Conferences.Api.csproj"
+            },
+            "/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Core/SentryGunAPI.Modules.Conferences.Core.csproj": {
+              "projectPath": "/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Core/SentryGunAPI.Modules.Conferences.Core.csproj"
+            },
+            "/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Abstractions/SentryGunAPI.Shared.Abstractions.csproj": {
+              "projectPath": "/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Abstractions/SentryGunAPI.Shared.Abstractions.csproj"
             },
             "/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Infrastructure/SentryGunAPI.Shared.Infrastructure.csproj": {
               "projectPath": "/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Infrastructure/SentryGunAPI.Shared.Infrastructure.csproj"

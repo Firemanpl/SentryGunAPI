@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O0D0/6ZW+IDcT8/5iNXqOF7J8YhKR6c6/VuJDZHDwSVjmgtCoZMn49VghS+Ch+r2IW8X4RWSyUjc8kc2sl4dpg==",
+  "dgSpecHash": "zxqR6j70NpA+Bxf8Khc59mQm04s5u11qNV1HtNWZWbvyNdlu7gU1pV1qlKWtJA2/HrKWFi2P1cwBY+A4xxvVEQ==",
   "success": true,
-  "projectFilePath": "/home/fireman/dotnet/SentryGunAPI/SentryGunAPI.Bootstrapper/SentryGunAPI.Bootstrapper.csproj",
+  "projectFilePath": "/home/fireman/dotnet/SentryGunAPI/src/Bootstrapper/SentryGunAPI.Bootstrapper/SentryGunAPI.Bootstrapper.csproj",
   "expectedPackageFiles": [
     "/home/fireman/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "/home/fireman/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",

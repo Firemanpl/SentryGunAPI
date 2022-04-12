@@ -9,6 +9,8 @@
       "SentryGunAPI.Bootstrapper/1.0.0": {
         "dependencies": {
           "SentryGunAPI.Modules.Conferences.Api": "1.0.0",
+          "SentryGunAPI.Modules.Conferences.Core": "1.0.0",
+          "SentryGunAPI.Shared.Abstractions": "1.0.0",
           "SentryGunAPI.Shared.Infrastructure": "1.0.0"
         },
         "runtime": {
