@@ -5,5 +5,5 @@ namespace SentryGunAPI.Modules.Conferences.Api.Controllers;
 public class HomeController : ControllerBase
 {
     [HttpGet]
-    public ActionResult<string> Get() => "Welcome to home!";
+    public ActionResult<string> Get() => "Welcome home!";
 }
