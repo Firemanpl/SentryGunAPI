@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ffb0FAte8wojG1zwwWrM6qVwJuGayAWIKoZQ7tQs4hjYP158+TGkLJvczyStQFlOSLGer+VsdUkL3EdX6ztSTg==",
+  "dgSpecHash": "OBLiXsxsyvnkoRSqjFJbefuNHJd4qE7WhLrwwibGR14F6zwHBT7vT+/8o5i5QAm8IC2SUbpDzIG3b4OoB0EHKQ==",
   "success": true,
   "projectFilePath": "/home/fireman/dotnet/SentryGunAPI/src/Shared/SentryGunAPI.Shared.Infrastructure/SentryGunAPI.Shared.Infrastructure.csproj",
   "expectedPackageFiles": [

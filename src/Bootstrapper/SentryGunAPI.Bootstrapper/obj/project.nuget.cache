@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zxqR6j70NpA+Bxf8Khc59mQm04s5u11qNV1HtNWZWbvyNdlu7gU1pV1qlKWtJA2/HrKWFi2P1cwBY+A4xxvVEQ==",
+  "dgSpecHash": "DRCUEFS/P0xDpElL7p35hlj+WpzWjBp5IQY3oXblw1TXYOmYFTGzY44ksyrnKmyTFKjptfal3l3v4I6gUVYjmQ==",
   "success": true,
   "projectFilePath": "/home/fireman/dotnet/SentryGunAPI/src/Bootstrapper/SentryGunAPI.Bootstrapper/SentryGunAPI.Bootstrapper.csproj",
   "expectedPackageFiles": [

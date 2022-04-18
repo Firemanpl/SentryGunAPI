@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "oA93VT08BsnOyJ88EJQMKmOlVDurSZKxEsxeEsTA88me3zOApqT+vTvBSOS9j5epiOj96gnl3uBO03Ofocv5cA==",
+  "dgSpecHash": "tUh55tVejdrjSjgy9Kj9kxofo2dHsS3NZCOFwiDOIHz0551BJ5jSaCzL+b0ZBKHKLtulGwXK41FsHFdL3jVoxA==",
   "success": true,
   "projectFilePath": "/home/fireman/dotnet/SentryGunAPI/src/Modules/SentryGunAPI.Modules.Conferences.Core/SentryGunAPI.Modules.Conferences.Core.csproj",
   "expectedPackageFiles": [
